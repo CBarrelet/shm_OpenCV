@@ -3,7 +3,7 @@ This shared memory class for C++ and Python allows sending an OpenCV image from 
 It could also be used to communicate between two or more C++ programs.
 
 ## pre-requisites:
-C++ lib: OpenCV
+C++ lib: OpenCV <br/>
 Python libs: OpenCV and Sysv_ipc
 
 ## Usage:
