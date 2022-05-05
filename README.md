@@ -1,6 +1,8 @@
 # shm_OpenCV
-Shared memory with OpenCV image between C++ program and Python program; works also with 2 C++ programs. 
+This shared memory class for C++ and Python allows sending an OpenCV image from Python to C++.
+It could also be used to communicate between two or more C++ programs.
 
+## pre-requisites:
 C++ lib: OpenCV
 Python libs: OpenCV and Sysv_ipc
 
